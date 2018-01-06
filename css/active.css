@@ -1,0 +1,18 @@
+.content {
+    width : 30%;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.content2 {
+    width : 30%;
+    display: inline-block;
+    margin-left: 10px;
+    background-color: gray;
+}
+
+.activeImg {
+    width: 100%;
+}
+
+

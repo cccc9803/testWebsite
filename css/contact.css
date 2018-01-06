@@ -1,0 +1,107 @@
+.contact-panel {
+	padding: 5px;
+	text-align: center;
+	width: 70%;
+	height: 500px;
+}
+.contact-form{
+	padding: 5px;
+	width: 100%;
+	height: 200px;
+}
+/*//////////////////////////
+//contact-subscribe part
+//////////////////////////*/
+.contact-input {
+    width: 100%;
+    height: 500px;
+}
+.contact-capital {
+	font-family: sans-serif;
+}
+.contact-subscribe {
+	color: #777;
+}
+.contact-subsrcibe-email {
+	width:60%;
+	height:50px;
+}
+.contact-subscribe-submit button{
+	border-solid: 0.5px;
+	font-size: 16px;
+	width: 90px;
+	height: 40px;
+	background-color: #e2e2e2;
+	color: black;
+}
+/*//////////////////////////
+//contact-msg part
+//////////////////////////*/
+.contact-msg-form-show button{
+	font-family: '微軟正黑體','標楷體';
+	border-solid: 0.5px;
+	font-size: 18px;
+	width:360px;
+	height: 50px;
+	background-color: #e2e2e2;
+	color: black;
+}
+.contact-capital-msg {
+	font-size: 20px;
+	color: #777;
+}
+.contact-msg{
+	position: relative;
+	left:25%;
+	text-align:center;
+	width:50%;
+}
+.contact-msg-title{
+	display:inline;
+	font-size: 20px;
+	color: black;
+}
+.contact-msg-close{
+	float:right;
+	font-size: 20px;
+	color: black;
+	cursor: pointer;
+}
+.contact-msg-name{
+    margin-top: 0px;
+    margin-bottom: 0px;
+	width:100%;
+	height: 50px;
+}
+.contact-msg-email{
+    margin-top: 0px;
+    margin-bottom: 0px;
+	width:100%;
+	height: 50px;
+}
+.contact-msg-text{
+    margin-top: 0px;
+    margin-bottom: 0px;
+	width:100%;
+    height: 150px;
+	resize: vertical;
+}
+.contact-msg-cancel{
+	display: inline;
+}
+.contact-msg-submit{
+	border-solid: 0.5px;
+	font-size: 16px;
+	width: 90px;
+	height: 40px;
+	background-color: #e2e2e2;
+	color: black;
+}
+.contact-msg-cancel{
+	border-solid: 0.5px;
+	font-size: 16px;
+	width: 90px;
+	height: 40px;
+	background-color: #e2e2e2;
+	color: black;
+}
